@@ -1,4 +1,4 @@
 # jupyter
 
 ## This is collectionn of jupyter notebooks written in python and R, feel free to use them in any way you want
-## they only have one purpose: learning
+## They only have one purpose: learning
